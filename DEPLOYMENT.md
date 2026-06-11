@@ -27,7 +27,7 @@ git push -u origin main
 
 ```bash
 cd /path/to/rusty_warfare
-git submodule add git@github.com:your-org/rusty-warfare-dev-tracker.git dev-tracker
+git submodule add git@github.com:simple-warfare/rusty-warfare-dev-tracker.git dev-tracker
 git commit -m "Add dev-tracker as submodule"
 ```
 
