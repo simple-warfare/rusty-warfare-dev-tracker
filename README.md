@@ -2,7 +2,7 @@
 
 开发进度追踪与文档站点 | Development Progress Tracking and Documentation
 
-[![Deploy](https://github.com/your-org/rusty-warfare-dev-tracker/actions/workflows/deploy.yml/badge.svg)](https://github.com/your-org/rusty-warfare-dev-tracker/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/simple-warfare/rusty-warfare-dev-tracker/actions/workflows/deploy.yml/badge.svg)](https://github.com/simple-warfare/rusty-warfare-dev-tracker/actions/workflows/deploy.yml)
 
 ## 🌐 在线访问 | Online Access
 
