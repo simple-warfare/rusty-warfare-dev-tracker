@@ -5,6 +5,7 @@ import { zh } from './locales/zh'
 export default defineConfig({
   title: 'Rusty Warfare Dev Tracker',
   description: 'Development progress tracking and documentation',
+  base: '/rusty-warfare-dev-tracker/',
 
   locales: {
     root: {
@@ -24,7 +25,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-org/rusty_warfare' }
+      { icon: 'github', link: 'https://github.com/simple-warfare/rusty_warfare' }
     ]
   }
 })
