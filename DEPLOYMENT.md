@@ -11,7 +11,7 @@ cd rusty-warfare-dev-tracker
 git init -b main
 git add .
 git commit -m "Initial commit: VitePress dev tracker with i18n"
-git remote add origin git@github.com:your-org/rusty-warfare-dev-tracker.git
+git remote add origin git@github.com:simple-warfare/rusty-warfare-dev-tracker.git
 git push -u origin main
 ```
 
@@ -40,7 +40,7 @@ export default defineConfig({
   base: '/rusty-warfare-dev-tracker/',  // 修改为你的仓库名
   themeConfig: {
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-org/rusty_warfare' }
+      { icon: 'github', link: 'https://github.com/simple-warfare/rusty_warfare' }
     ]
   }
 })
