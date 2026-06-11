@@ -6,8 +6,8 @@
 
 ## 🌐 在线访问 | Online Access
 
-- **中文**: https://your-org.github.io/rusty-warfare-dev-tracker/zh/
-- **English**: https://your-org.github.io/rusty-warfare-dev-tracker/en/
+- **中文**: https://simple-warfare.github.io/rusty-warfare-dev-tracker/zh/
+- **English**: https://simple-warfare.github.io/rusty-warfare-dev-tracker/en/
 
 ## 🚀 本地开发 | Local Development
 
