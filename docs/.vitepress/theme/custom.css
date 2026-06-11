@@ -1,0 +1,7 @@
+:root {
+  --vp-c-brand-1: #10b981;
+  --vp-c-brand-2: #059669;
+  --vp-c-brand-3: #047857;
+}
+
+.vp-doc h1 { border-bottom: 1px solid var(--vp-c-divider); padding-bottom: 0.5rem; }
